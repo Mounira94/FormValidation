@@ -1,0 +1,48 @@
+body
+{
+    background-color:  rgb(111, 23, 151);
+}
+.form
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+#form-text
+{
+    display: flex;
+    flex-direction: column;
+     
+}
+.label
+
+{
+
+font-size: 20px;
+color: white;
+font-weight: bold; 
+padding-left: 0px;
+
+}
+.input
+{
+    width:500px ;
+    height: 40px;
+    border:1px solid rgb(50, 5, 77);
+    background-color: rgb(50, 5, 77);
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+}
+.botton
+{
+    margin-top: 20px;
+    width: 500px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(171, 113, 204);
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(50, 5, 77);
+}
